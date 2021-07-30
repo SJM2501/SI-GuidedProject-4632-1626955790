@@ -5,6 +5,16 @@ Ashutosh Pandey
 Jithaamithran S
 Pavan Kumar A
 Tanisha Mandal
+# LIBRARIES USED
+Tensorflow
+Keras
+Flask
+# LANGUAGES USED
+Python
+CSS
+HTML
+Bootstrap
+# ACKNOWLEDGEMENT
 I Thank My Mentor and the whole SmartInternz team for providing this wonderful oppurtunity
-#Note to mentor and SmartInternz Team
+# Note to mentor and SmartInternz Team
 Imported from my original github as this is the mail id registered for SmartInternz
